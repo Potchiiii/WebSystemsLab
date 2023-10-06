@@ -1,0 +1,43 @@
+button{
+    background-color: whitesmoke;
+    padding: 5px 10px;
+}
+
+button:hover{
+    box-shadow: 0 0 5px red, 0 0 25px red, 0 0 50px red,
+     0 0 100px red, 0 0 200px red;
+}
+ i{
+    color: black;
+ }
+.Seal{
+    display:block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.WMSUcolor{
+    color: crimson;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #cc0001;
+    padding: 10x 20px;
+}
+
+.navbar{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.navbar ul li{
+    display: inline;
+    margin-left: 10px;
+}
+.about_us_header{
+    color: black;
+}
